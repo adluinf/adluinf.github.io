@@ -2,6 +2,7 @@
 layout: single
 permalink: /
 author_profile: true
+toc:true
 ---
 
 **Welcome to my personal website!**
