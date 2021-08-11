@@ -1,1 +1,14 @@
 theme: jekyll-theme-slate
+
+title                    : "Adriaan Ludl"
+title_separator          : "-"
+subtitle                 : "Adriaan Ludl Personal Webpage"
+name : "Adriaan Ludl"
+#email: "this@that.org"
+description: >- # this means to ignore newlines until "baseurl:"
+  Adriaan Ludl Personal Webpage
+url : https://adluinf.github.io
+baseurl : "/"
+github_username: adluinf
+search: "false"
+tagline: "Adriaan Ludl"
