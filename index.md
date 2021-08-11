@@ -4,7 +4,7 @@ I am Adriaan Ludl, a postdoctoral fellow at the Computational Biology Unit (CBU)
 
 # Research Interests
 
-My research interests and past experience cover diverse areas of biological and physical phenomena, ranging from modeling regulatory networks in the context of quorum sensing in bacteria, simulations of neuronal activity, network inference in neuroscience, to phase transitions and crystallisation.
+My research interests and past experience cover diverse areas of biological and physical phenomena, ranging from **modeling regulatory networks** in the context **medical applications**, quorum sensing in bacteria, simulations of neuronal activity, network inference in neuroscience, to phase transitions, crystallisation and gravitational deflection of light.
 
 - **Causal Inference and Omics**: 
 My current research with [Tom Michoel](https://lab.michoel.info/) in the Computational Biology Unit focuses on ***causal inference*** methods and their applications on **genomic** and **multi-omic** data. I am developing methods to distinguish correlation from causation given genomic population data. My goal is to participate in improving our understanding of complex **gene regulatory networks** (GRN) involving thousands of genes and their products in order to establish their **phenotypic trait** outcomes. This work has implications on the study of diseases and healthy phenotypes and finding therapeutic targets. [1]
