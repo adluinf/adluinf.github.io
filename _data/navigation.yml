@@ -1,7 +1,7 @@
 main:
   - title: "Projects"
-    url: /_pages/projects.md
+    url: /projects/
   - title: "CV"
-    url: /_pages/cv.md
+    url: /cv/
   - title: "Home"
     url: /
