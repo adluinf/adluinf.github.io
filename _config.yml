@@ -23,3 +23,29 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+author:
+  name     : "Adriaan Ludl"
+  #avatar   : "/assets/images/bio-photo-2.jpg"
+  bio      : "Ubi materia ibi geometria"
+  #location : "Eindhoven, The Netherlands"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/adluinf"
+      #    - label: "Google Scholar"
+      #icon: "fab fa-fw fa-google"
+
+
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/adluinf"
