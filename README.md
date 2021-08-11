@@ -1,2 +1,1 @@
-# adluinf.github.io
-Personal Webpage
+Personal webpage powered by Github.io
