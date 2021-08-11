@@ -2,6 +2,8 @@
 
 I am Adriaan Ludl, a postdoctoral fellow at the Computational Biology Unit (CBU), Department of Informatics of the  University of Bergen.
 
+// % # https://www.uib.no/en/persons/Adriaan.Ludl
+
 # Research Interests
 
 My research interests and past experience cover diverse areas of biological and physical phenomena, ranging from **modeling regulatory networks** in the context **medical applications**, *quorum sensing* in bacteria, simulations of *neuronal activity*, **network inference** in neuroscience, to phase transitions, crystallisation and gravitational deflection of light.
