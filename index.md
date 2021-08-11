@@ -2,7 +2,6 @@
 
 I am Adriaan Ludl, a postdoctoral fellow at the Computational Biology Unit (CBU), Department of Informatics of the  University of Bergen.
 
-// % # https://www.uib.no/en/persons/Adriaan.Ludl
 
 # Research Interests
 
