@@ -27,4 +27,6 @@ My current research with [Tom Michoel](https://lab.michoel.info/) in the Computa
 
 # CV
 
+---
+
 *Content available under CC BY-SA*
