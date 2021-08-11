@@ -14,3 +14,10 @@ baseurl : "/"
 github_username: adluinf
 search: "false"
 tagline: "Adriaan Ludl"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
