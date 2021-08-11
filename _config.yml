@@ -13,16 +13,25 @@ github_username: adluinf
 search: "false"
 tagline: "Adriaan Ludl"
 
-# Build settings 
+# Theme
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt" 
+minimal_mistakes_skin: "air" 
 
-# config
+# Build settings 
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+include:
+  - _pages
+
+timezone: Europe/Oslo
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 
 # Plugins (previously gems:)
 plugins:
@@ -34,7 +43,7 @@ author:
   name     : "Adriaan Ludl"
   #avatar   : "/assets/images/bio-photo-2.jpg"
   bio      : "Ubi materia ibi geometria"
-  #location : "Eindhoven, The Netherlands"
+  location : "Norway"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
