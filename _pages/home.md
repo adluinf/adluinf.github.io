@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-** Welcome to my personal website! **
+**Welcome to my personal website!**
 
 I am Adriaan Ludl, a postdoctoral fellow at the Computational Biology Unit (CBU), Department of Informatics of the  University of Bergen.
 
@@ -26,3 +26,5 @@ My current research with [Tom Michoel](https://lab.michoel.info/) in the Computa
 2. Impact of Physical Obstacles on the Structural and Effective Connectivity of in silico Neuronal Circuits. Ludl and Soriano (2020). Front. Comput. Neurosci., [doi:10.3389/fncom.2020.00077](https://dx.doi.org/10.3389/fncom.2020.00077) -- [PMID:32982710](https://pubmed.ncbi.nlm.nih.gov/33438713/)
 
 # CV
+
+*Content available under CC BY-SA*

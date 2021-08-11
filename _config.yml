@@ -24,10 +24,13 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Europe/Oslo
+
 include:
   - _pages
-
-timezone: Europe/Oslo
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -35,9 +38,14 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
-
+  - jekyll-seo-tag
 
 author:
   name     : "Adriaan Ludl"
@@ -58,3 +66,30 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adluinf"
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
