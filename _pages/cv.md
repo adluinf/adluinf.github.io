@@ -17,11 +17,11 @@ Part of the group of Tom Michoel at the Computational Biology Unit, Dept. of Inf
 * **Spring 2021**: Lecturer and course responsible for INF115: Databases and Modeling
 
 * **2016--2019**: As Postdoctoral Researcher at *Universitat de Barcelona*,
-    Spaini, I have worked within MesoBrain project on methods to infer the connectivity of neurons from calcium fluorescence imaging using Transfer Entropya as well as simulations of neuronal networks on spatial patterns.
+    Spain, I have worked within MesoBrain project on methods to infer the connectivity of neurons from calcium fluorescence imaging using Transfer Entropya as well as simulations of neuronal networks on spatial patterns.
 Part of the NeuroPhysics group of Jordi Soriano, Dept. of Condensed Matter Physics
 
 * **2012--2015**: PhD in physics at the *Université Pierre et Marie Curie* in Paris. My [thesis](https://hal.archives-ouvertes.fr/tel-01597902) is about amorphous and crystalline solutions of NaCl in water studied using diffraction, classical and ab-initio molecular simulations, random structure searching.
-Part of the group Stefan Klotz, CNRS, IMPMC
+Part of the group of Stefan Klotz, CNRS, IMPMC
 
 * **Spring 2012**: Project on Stochastic Dynamics of a quorum sensing Network at *Lund University*. Simulations of stochastic kinetics of a bistable chemical network controlling the collective behaviour of bacteria.
 Advisor: Henrik Jönsson, Computational Biology and Biological Physics group
