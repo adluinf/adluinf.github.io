@@ -8,6 +8,8 @@ header:
   image: /assets/images/band_1.jpg
 ---
 
+Full list of publications on [ORCID](https://orcid.org/0000-0003-3461-4644).
+
 # Selected Publications
 
 1. Comparison between instrumental variable and mediation-based methods for reconstructing causal gene networks in yeast. Ludl and Michoel (2021) Mol. Omics, 17, 241-251. [doi:10.1039/d0mo00140f](https://dx.doi.org/10.1039/d0mo00140f) -- [PMID:33438713](https://pubmed.ncbi.nlm.nih.gov/33438713/) -- [arXiv:2010.07417](https://arxiv.org/abs/2010.07417) -- [github](https://github.com/michoel-lab/FindrCausalNetworkInferenceOnYeast) -- [![DOI](https://zenodo.org/badge/313364218.svg)](https://zenodo.org/badge/latestdoi/313364218)
