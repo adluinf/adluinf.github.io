@@ -58,9 +58,9 @@ author:
       url: "https://github.com/adluinf"
       #    - label: "Google Scholar"
       #icon: "fab fa-fw fa-google"
-
-
-
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-3461-4644"
 footer:
   links:
     - label: "GitHub"
@@ -71,7 +71,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development  # disable compression in dev environment
-
 
 defaults:
   # _posts
