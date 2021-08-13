@@ -25,4 +25,4 @@ header:
 # Supervision Experience
 
 - 2019 -- : Co-supervision of Master and PhD students with Tom Michoel at the University of Bergen
-
+- Summer 2017: Supervision of a high-school student's graduation project in neuroscience at the University of Barcelona. 
