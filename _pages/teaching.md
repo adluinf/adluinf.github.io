@@ -12,7 +12,7 @@ header:
 
 - Spring 2021: Lecturer and course responsible in INF115 [**Databases and Modelling**](https://www.uib.no/en/course/INF115), University of Bergen
 
-- 18 June 2021: Tutorial about **causal inference for genomic data** for the NORBIS Research School course on [Genomics for Precision Medicine](https://norbis.w.uib.no/genomics-for-precision-medicine/) [github repo](https://github.com/adluinf/NORBIS_Causal_Inference_Tutorial).
+- 18 June 2021: Tutorial about **causal inference for genomic data** [(github repo)](https://github.com/adluinf/NORBIS_Causal_Inference_Tutorial) for the NORBIS Research School course on [Genomics for Precision Medicine](https://norbis.w.uib.no/genomics-for-precision-medicine/)
 
 - Sep. 2020: Lecture and Hands-on session on **causal inference** for the project *Network inference using single cell gene expression data* with Anagha Joshi
     for the Digital Life Norway course: [Transdisciplinary life science](https://www.digitallifenorway.org/research-school/courses/transdisciplinary-biotechnology.html)
