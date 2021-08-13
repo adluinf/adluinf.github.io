@@ -12,7 +12,7 @@ I am a postdoctoral fellow at the Computational Biology Unit (CBU), Department o
 
 # Research Interests
 
-My research interests cover diverse areas of biological and physical phenomena: **network inference** -- genomics -- neuroscience -- **mathematical modeling** -- **regulatory networks** -- *quorum sensing* -- *neuronal activity* -- phase transitions -- gravitational effects.
+My research interests cover diverse areas of biological and physical phenomena: **causal inference** -- **genomics** -- **neuroscience** -- **mathematical modeling** -- **regulatory networks** -- *quorum sensing* -- *neuronal activity* -- phase transitions -- gravitational effects.
 
 - **Causal Inference and Omics**: 
 My current research with [Tom Michoel](https://lab.michoel.info/) in the CBU focuses on ***causal inference*** methods and their applications on **genomic** and **multi-omic** data. This work has implications on the study of diseases and healthy phenotypes and finding therapeutic targets. See [1] and my [Projects](/projects/)
