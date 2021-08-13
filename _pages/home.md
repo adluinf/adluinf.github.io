@@ -27,4 +27,4 @@ My current research with [Tom Michoel](https://lab.michoel.info/) in the Computa
 
 ---
 
-*Content available under CC BY-SA*
+*Content available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
