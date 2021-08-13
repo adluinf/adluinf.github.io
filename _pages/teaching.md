@@ -10,7 +10,7 @@ header:
 
 # Teaching Experience
 
-- Spring 2021: Lecturer and course responsible in INF115 **Databases and Modelling**, University of Bergen
+- Spring 2021: Lecturer and course responsible in INF115 [**Databases and Modelling**](https://www.uib.no/en/course/INF115), University of Bergen
 
 - 18 June 2021: Tutorial about **causal inference for genomic data** for the NORBIS Research School course on [Genomics for Precision Medicine](https://norbis.w.uib.no/genomics-for-precision-medicine/) [github repo](https://github.com/adluinf/NORBIS_Causal_Inference_Tutorial).
 
@@ -18,7 +18,7 @@ header:
     for the Digital Life Norway course: [Transdisciplinary life science](https://www.digitallifenorway.org/research-school/courses/transdisciplinary-biotechnology.html)
 
 - 2014--2015: Teaching assistant in mathematics, astronomy and thermodynamics at UPMC, Paris
-- 2009--2010: Volunteer tutoring undergraduate students in Toulouse with OSE L'ISAE
+- 2009--2010: Volunteer tutoring undergraduate students in Toulouse with [OSE L'ISAE](https://www.isae-supaero.fr/en/about-isae-supaero/the-ose-isae-supaero-diversity-program/actions/)
 - July 2009: Humanitarian internship in Dassa (Benin) with the Guilde Européenne du Raid
 
 
