@@ -22,4 +22,4 @@ My current research with [Tom Michoel](https://lab.michoel.info/) in the Computa
 
 
 ----
-For references refer to the publications page.
+For references refer to the [Publications](/publications/) page.
