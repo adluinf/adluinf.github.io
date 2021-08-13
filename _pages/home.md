@@ -17,6 +17,10 @@ My research interests cover diverse areas of biological and physical phenomena: 
 - **Causal Inference and Omics**: 
 My current research with [Tom Michoel](https://lab.michoel.info/) in the CBU focuses on ***causal inference*** methods and their applications on **genomic** and **multi-omic** data. This work has implications on the study of diseases and healthy phenotypes and finding therapeutic targets. See [1] and my [Projects](/projects/).
 
+- **Simulating Regulatory Networks**:
+I am currently working with models of gene regulatory networks. Previously, I have studied integrate and fire models of *neuronal dynamics* and the processes generating connections between neurons [[2]](/publications/), and the stochastic kinetics of a chemical network controlling *quorum sensing* in bacteria.
+
+
 - **Inference of Neuronal Connectivity**: I have used inference methods based on **information theory** to study functional connectivity of ***living*** **neuronal networks**. My aim is to understand and model the computational capabilities of nervous systems. See [2] and my [Projects](/projects/).
 
 # References
