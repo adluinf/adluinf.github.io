@@ -17,7 +17,7 @@ header:
 - Sep. 2020: Lecture and Hands-on session on **causal inference** for the project *Network inference using single cell gene expression data* with Anagha Joshi
     for the Digital Life Norway course: [Transdisciplinary life science](https://www.digitallifenorway.org/research-school/courses/transdisciplinary-biotechnology.html)
 
-- 2014--2015: Teaching assistant in mathematics, astronomy and thermodynamics at UPMC, Paris
+- 2014--2015: Teaching assistant in mathematics, astronomy and thermodynamics at Université Pierre et Marie Curie, Paris
 - 2009--2010: Volunteer tutoring undergraduate students in Toulouse with [OSE L'ISAE](https://www.isae-supaero.fr/en/about-isae-supaero/the-ose-isae-supaero-diversity-program/actions/)
 - July 2009: Humanitarian internship in Dassa (Benin) with the Guilde Européenne du Raid
 
