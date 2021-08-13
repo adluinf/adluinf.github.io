@@ -10,11 +10,11 @@ header:
 
 # Teaching Experience
 
-- Spring 2021: Lecturer and course responsible in INF115 *Databases and Modelling*, University of Bergen
+- Spring 2021: Lecturer and course responsible in INF115 **Databases and Modelling**, University of Bergen
 
-- Tutorial about **causal inference for genomics data** for the NORBIS Research School course on [Genomics for Precision Medicine](https://norbis.w.uib.no/genomics-for-precision-medicine/) [github repo](https://github.com/adluinf/NORBIS_Causal_Inference_Tutorial).
+- 18 June 2021: Tutorial about **causal inference for genomic data** for the NORBIS Research School course on [Genomics for Precision Medicine](https://norbis.w.uib.no/genomics-for-precision-medicine/) [github repo](https://github.com/adluinf/NORBIS_Causal_Inference_Tutorial).
 
-- Lecture and Hands-on session for the project *Network inference using single cell gene expression data* with Anagha Joshi
+- Sep. 2020: Lecture and Hands-on session on **causal inference** for the project *Network inference using single cell gene expression data* with Anagha Joshi
     for the Digital Life Norway course: [Transdisciplinary life science](https://www.digitallifenorway.org/research-school/courses/transdisciplinary-biotechnology.html)
 
 - 2014--2015: Teaching assistant in mathematics, astronomy and thermodynamics at UPMC, Paris
