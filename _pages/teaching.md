@@ -14,7 +14,7 @@ header:
 
 - 18 June 2021: Tutorial about **causal inference for genomic data** [(github repo)](https://github.com/adluinf/NORBIS_Causal_Inference_Tutorial) for the NORBIS Research School course on [Genomics for Precision Medicine](https://norbis.w.uib.no/genomics-for-precision-medicine/)
 
-- Sep. 2020: Lecture and Hands-on session on **causal inference** for the project *Network inference using single cell gene expression data* with Anagha Joshi
+- Sep. 2020: Lecture and hands-on session on **causal inference** for the project *Network inference using single cell gene expression data* with Anagha Joshi
     for the Digital Life Norway course: [Transdisciplinary life science](https://www.digitallifenorway.org/research-school/courses/transdisciplinary-biotechnology.html)
 
 - 2014--2015: Teaching assistant in mathematics, astronomy and thermodynamics at Université Pierre et Marie Curie, Paris
