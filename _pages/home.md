@@ -8,7 +8,7 @@ header:
 
 **Welcome to my personal website!**
 
-I am a postdoctoral fellow at the Computational Biology Unit (CBU), Department of Informatics of the  University of Bergen.
+I develop algorithms and computational methods based on machine learning and statistical inference to generate quantitative insight from experimental data. Currently, I am a postdoctoral fellow at the Computational Biology Unit (CBU), Department of Informatics of the University of Bergen.
 
 # Research Interests
 
