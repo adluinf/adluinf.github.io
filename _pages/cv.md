@@ -11,13 +11,13 @@ Full CV available upon request.
 
 ## Professional and Research Experiences
 
-* **October 2019 -- present**: As Postdoctoral Fellow at *Universitetet i Bergen*, Norway, I am developing reliable methods of causal inference and path analysis for omics data. These methods infer regulatory networks from omics data. 
+* **October 2019 -- present**: As Postdoctoral Fellow at *Universitetet i Bergen*, Norway, I am developing reliable methods of causal inference based on instrumental variables and path analysis for omics data. These methods can infer regulatory networks from population data. 
 Part of the group of Tom Michoel at the Computational Biology Unit, Dept. of Informatics
 
 * **Spring 2021**: Lecturer and course responsible for INF115: Databases and Modeling
 
 * **2016--2019**: As Postdoctoral Researcher at *Universitat de Barcelona*,
-    Spain, I have worked within MesoBrain project on methods to infer the connectivity of neurons from calcium fluorescence imaging using Transfer Entropya as well as simulations of neuronal networks on spatial patterns.
+    Spain, I have worked within the MesoBrain project on methods to infer the causal connectivity of neurons from calcium fluorescence imaging using Transfer Entropy as well as simulations of neuronal networks on spatial patterns.
 Part of the NeuroPhysics group of Jordi Soriano, Dept. of Condensed Matter Physics
 
 * **2012--2015**: PhD in physics at the *Université Pierre et Marie Curie* in Paris. My [thesis](https://hal.archives-ouvertes.fr/tel-01597902) is about amorphous and crystalline solutions of NaCl in water studied using diffraction, classical and ab-initio molecular simulations, random structure searching.
