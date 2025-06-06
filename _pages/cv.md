@@ -31,7 +31,7 @@ Part of the group of Stefan Klotz, CNRS, IMPMC
 Advisor: Henrik Jönsson, Computational Biology and Biological Physics group
 
 * **Spring 2011**:
-  Master’s [thesis](https://www.lunduniversity.lu.se/lup/publication/2158517) in Astrophysics at *Lund University*, Sweden
+  Master’s [thesis](https://www.lunduniversity.lu.se/lup/publication/2158517) in Astrophysics at *Lund University*, Sweden.
 Proof of detectability by the Gaia mission of a quadrupolar lensing effect in the solar neighbourhood
 predicted by general relativity for observations close to flattened massive bodies such as Jupiter.
 Advisors: David Hobbs and Lennart Lindegren, Lund Observatory
