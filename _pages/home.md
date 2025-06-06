@@ -8,7 +8,7 @@ header:
 
 **Welcome to my personal website!**
 
-I develop algorithms and computational methods based on machine learning and statistical inference to generate quantitative insight from real data. I am open to new opportunities, please do get in touch!
+I develop algorithms and computational methods based on machine learning and statistical inference to generate quantitative insight from real data. I am *open to new opportunities*, **please do get in touch**!
 
 # Research Interests
 
