@@ -16,9 +16,9 @@ My research interests cover diverse areas of biological and physical phenomena: 
 
 - **Inference**: 
 
-- **Inference of Neuronal Connectivity**: I have used inference methods based on **information theory** to study the functional connectivity of ***living*** **neuronal networks**. These models can contribute to better understand the computational capabilities of nervous systems. See [2] and my [Projects](/projects/).
+-- **Inference of Neuronal Connectivity**: I have used inference methods based on **information theory** to study the functional connectivity of ***living*** **neuronal networks**. These models can contribute to better understand the computational capabilities of nervous systems. See [2] and my [Projects](/projects/).
 
-- **Causal Inference and Omics**: 
+-- **Causal Inference and Omics**: 
 My research with [Tom Michoel](https://lab.michoel.info/) has focused on ***causal inference*** methods and their applications on **genomic** and **multi-omic** data. This work has implications on the study of diseases and healthy phenotypes and finding therapeutic targets. See [1] and my [Projects](/projects/).
 
 - **Modeling**: 
