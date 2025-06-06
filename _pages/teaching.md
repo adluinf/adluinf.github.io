@@ -10,7 +10,7 @@ header:
 
 # Teaching Experience
 
-- Spring 2021: Lecturer and course responsible in INF115 [**Databases and Modelling**](https://www.uib.no/en/course/INF115), University of Bergen
+- 2021 -- 2023: Lecturer and course responsible in INF115 [**Databases and Modelling**](https://www.uib.no/en/course/INF115), University of Bergen
 
 - 18 June 2021: Tutorial about **causal inference for genomic data** [(github repo)](https://github.com/adluinf/NORBIS_Causal_Inference_Tutorial) for the NORBIS Research School course on [Genomics for Precision Medicine](https://norbis.w.uib.no/genomics-for-precision-medicine/)
 
