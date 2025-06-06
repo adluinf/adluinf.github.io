@@ -12,9 +12,9 @@ I am *open to new opportunities*, **please do get in touch**!
 
 # Experience
 
-I develop algorithms and computational methods based on machine learning, information theory and statistical inference to generate quantitative insight from real data. 
+**I develop algorithms and computational methods based on machine learning, information theory and statistical inference to generate *quantitative insight* from real data**. 
 I am an experienced programmer who has implemented computational models and applied stastistical inference methods to physical and biological systems.
-I have worked on research projects involving data from **genomics**, **neuroscience** and **astrophysics**.
+I have worked on research projects involving data from *genomics*, *neuroscience* and *astrophysics*.
 Currently, I write code in Python and I am learning Rust. Moreover, I have experience with Java and FORTRAN.
 
 ## **Inference**: 
