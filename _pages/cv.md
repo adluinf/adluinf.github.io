@@ -12,12 +12,12 @@ Full CV available upon request.
 ## Professional and Research Experiences
 
 * **October 2024 -- April 2025**: Senior Researcher with ELIXIR Norway and at *Universitetet i Bergen*, Norway.
-I contributed to ontologies for bioimaging data (EDAM bioimaging), metadata standards, pipelines and interoperability of open repositories for scientic biological images.
+I contributed to ontologies for bioimaging data (EDAM bioimaging), metadata standards, pipelines and interoperability of open repositories for scientific biological images.
 
 * **October 2019 -- 2023**: As Postdoctoral Fellow at *Universitetet i Bergen*, Norway, I developed reliable methods of causal inference based on instrumental variables and path analysis for omics data. These methods can infer regulatory networks from population data. 
 Part of the group of Tom Michoel at the Computational Biology Unit, Dept. of Informatics
 
-* **Spring 2021 -- 2023**: Lecturer and course responsible for [INF115: Databases and Modeling](https://www.uib.no/en/course/INF115)
+* **Spring 2021 -- 2023**: Lecturer and course responsible for [INF115: Databases and Modeling](https://www.uib.no/en/course/INF115).
 The course covers the Relational Model, Entity Relationship Diagrams, SQL, Indices, Transactions and storage methods. It includes an introduction to cloud technologies for databases and NoSQL solutions.
 
 * **2016--2019**: As Postdoctoral Researcher at *Universitat de Barcelona*, Spain,
