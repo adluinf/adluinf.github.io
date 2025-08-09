@@ -24,7 +24,7 @@ The course covers the Relational Model, Entity Relationship Diagrams, SQL, Indic
 I have worked within the MesoBrain project on methods to infer the causal connectivity of neurons from calcium fluorescence imaging using Transfer Entropy as well as simulations of neuronal networks on spatial patterns.
 Part of the NeuroPhysics group of Jordi Soriano, Dept. of Condensed Matter Physics
 
-* **2012 -- 2015**: PhD in physics at the *Université Pierre et Marie Curie* in Paris. My [thesis](https://hal.archives-ouvertes.fr/tel-01597902) presents the structure and phase transitions between amorphous and crystalline solutions of NaCl in water. I performed experiments on ices at high pressure using diffraction methods, classical and ab-initio molecular simulations, and random structure searching calculations. I produced the samples experimentally, designed models and carried out simulations, and analysed the data.
+* **2012 -- 2015**: PhD in physics at *Université Pierre et Marie Curie* in Paris. My [thesis](https://hal.archives-ouvertes.fr/tel-01597902) presents the structure and phase transitions between amorphous and crystalline solutions of NaCl in water. I performed experiments on ices at high pressure using diffraction methods, classical and ab-initio molecular simulations, and random structure searching calculations. I produced the samples experimentally, designed models and carried out simulations, and analysed the data.
 Part of the group of Stefan Klotz, CNRS, IMPMC
 
 * **Spring 2012**: Project on Stochastic Dynamics of a quorum sensing Network at *Lund University*. I performed simulations of the stochastic kinetics (using the Gillespie algorithm) of a bistable chemical network controlling the collective behaviour of bacteria.
@@ -40,12 +40,13 @@ Advisors: David Hobbs and Lennart Lindegren, Lund Observatory
 
 ## Education
 
+* **2012 -- 2015**: PhD in physics at *Université Pierre et Marie Curie*, Paris, France.
 
-* **2011 -- 2012**: Master of Science in Physics at *Lund University*, Sweden
+* **2011 -- 2012**: Master of Science in Physics at *Lund University*, Sweden.
 
-* **2008 -- 2011**: Diplôme d’Ingénieur Supaéro: Master’s degree in Aeronautics and Space Engineering of the *Institut Supérieur de l’Aéronautique et de l’Espace*, Toulouse, France
+* **2008 -- 2011**: Diplôme d’Ingénieur Supaéro: Master’s degree in Aeronautics and Space Engineering of the *Institut Supérieur de l’Aéronautique et de l’Espace*, Toulouse, France.
 
-* **2008 -- 2010**: Bachelor in Mathematics at *Université Paul Sabatier* in Toulouse, France
+* **2008 -- 2010**: Bachelor in Mathematics at *Université Paul Sabatier* in Toulouse, France.
 
-* **2006 -- 2008**: Undergraduate major in Mathematics and Physics at *Lycée Henri IV* in Paris, France: preparation for entrance exams to French graduate schools (“Grandes Ecoles”)
+* **2006 -- 2008**: Undergraduate major in Mathematics and Physics (CPGE MP) at *Lycée Henri IV* in Paris, France: preparation for entrance exams to French graduate schools (“Grandes Ecoles”).
 
