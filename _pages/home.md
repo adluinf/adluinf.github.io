@@ -8,12 +8,12 @@ header:
 
 **Welcome to my personal website!**
 
-I am *open to new opportunities*, **please do get in touch**!
+I am *open to new opportunities*, **please do get in touch** on LinkedIn !
 
 # Experience
 
 **I develop algorithms and computational methods based on machine learning, information theory and statistical inference to generate *quantitative insight* from real data**. 
-I am an experienced programmer who has implemented computational models and applied stastistical inference methods to physical and biological systems.
+I am an experienced programmer who has implemented computational models and applied statistical inference methods to physical and biological systems.
 I have worked on research projects involving data from *genomics*, *neuroscience* and *astrophysics*.
 Currently, I write code in Python and I am learning Rust. Moreover, I have experience with Java and FORTRAN.
 
@@ -42,7 +42,7 @@ I have implemented code in Java to show that the quadrupolar light deflection by
 
 2. *Impact of Physical Obstacles on the Structural and Effective Connectivity of in silico Neuronal Circuits*. Ludl and Soriano (2020). Front. Comput. Neurosci., [doi:10.3389/fncom.2020.00077](https://dx.doi.org/10.3389/fncom.2020.00077) -- [PMID:32982710](https://pubmed.ncbi.nlm.nih.gov/33438713/)
 
-3. *Astrometic Detection of Gravitational Light Deflection by Jupiter with Gaia Data*. Ludl (2011) [Master's thesis](https://www.lunduniversity.lu.se/lup/publication/2158517)
+3. *Astrometric Detection of Gravitational Light Deflection by Jupiter with Gaia Data*. Ludl (2011) [Master's thesis](https://www.lunduniversity.lu.se/lup/publication/2158517)
 
 ----
 
