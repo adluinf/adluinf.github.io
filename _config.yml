@@ -61,6 +61,9 @@ author:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-3461-4644"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/adriaan3141"
       
 footer:
   links:
